@@ -8,6 +8,6 @@ OPDRACHT 3
 4. git show 972fc03
 
 OPDRACHT 7
-a.
-b.
-c.
+a. Omdat deze de nieuwe versie van de repository nog niet had, en er een wijziging was op dezelfde lijn die gepusht ging worden
+b. git commit slaat de wijzigingen op in een nieuwe versie van de repository lokaal. Git push stuurt alle commits en versies naar de remote repository (de cloud, of gewoon github.com)
+c. Zodat mensen dingen kunnen toevoegen zonder elke keer dit probleem tegen te komen als er 2 of meer developers op hetzelfde moment bezig zijn.
