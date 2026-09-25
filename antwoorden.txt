@@ -2,10 +2,18 @@ ANTWOORDEN TOETS GIT & GITHUB
 Naam: Vincent Delvoye
 
 OPDRACHT 3
-1. 972fc03
-2. f2f18b6, "Homepage naar versie 2"
-3. f2f18b64, git blame index.html
-4. git show 972fc03
+1.
+Commando: git log --oneline
+Antwoord: 972fc03
+2.
+Commando: git log --oneline -- index.html
+Antwoord: f2f18b6, "Homepage naar versie 2"
+3.
+Commando: git blame index.html
+Antwoord: f2f18b6
+4.
+Commando: git show 972fc03
+Antwoord: git show 972fc03 toont de wijzigingen van 'Basiswebsite toegevoegd'
 
 OPDRACHT 7
 a. Omdat deze de nieuwe versie van de repository nog niet had, en er een wijziging was op dezelfde lijn die gepusht ging worden
