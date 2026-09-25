@@ -2,10 +2,10 @@ ANTWOORDEN TOETS GIT & GITHUB
 Naam: Vincent Delvoye
 
 OPDRACHT 3
-1.
-2.
-3.
-4.
+1. 972fc03
+2. f2f18b6, "Homepage naar versie 2"
+3. f2f18b64, git blame index.html
+4. git show 972fc03
 
 OPDRACHT 7
 a.
